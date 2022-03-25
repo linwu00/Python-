@@ -1,2 +1,2 @@
 # Python-
-# The exp. of the course of Python.
+# The exp. of course of Python.
