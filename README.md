@@ -1,9 +1,8 @@
 # Python-
 # The exp. of course of Python.
 😄
-- [ ] Be awesome
 - [ ] Prepare dinner
-  - [ ] Research recipe
+  - [x] Research recipe
   - [ ] Buy ingredients
   - [ ] Cook recipe
 - [ ] Sleep
